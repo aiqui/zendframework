@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2.4.13 (2017-07-13)
+
+- Restores php 5.3 compat in HeaderValue.
+
+## 2.4.12 (2017-06-19)
+
+- Fix signature issue with AbstractContainer::offsetGet
+
 ## 2.4.11 (2016-12-19)
 
 - Fixes ZF2016-04 vulnerability
